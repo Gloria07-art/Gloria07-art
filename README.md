@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gloria Pucoe
-I am a Developer and Entreperneur. I studied computer science, I love machine learning algorithms and have a new passion for web development using javascript. I enjoy using technology to solve problems in my community.
-* 🌍  I'm based in the Northern Cape.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gloria Pucoe.
+I am a developer and an entreperneur. I studied computer science and I'm a researcher at heart. I am fasicinated with machine learning algorithms and have a new passion for web/app development using javascript. We(me) enjoy using technology to solve societal problems.
+* 🌍  I'm based in the Northern Cape, South Africa.
 * ✉️  You can contact me at [gloriapucoe@mandelite.com](mailto:gloriapucoe@mandelite.com)
-* 🧠   I'm learning React.js and React Native.
-* 🤝  I'm open to collaborating on Cybersecurity and app solutions projects.
-* ⚡  I'm secretly batman, don't tell anyone...
+* 🧠   I'm learning React.js, iot and React Native.
+* 🤝  I'm open to collaborating on Cybersecurity and business web-app related projects.
+* ⚡  I'm secretly a marvel fan, don't tell anyone...
 
 ### Skills
 
